@@ -1,0 +1,726 @@
+[
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_play_btn.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_nextt.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\nextt.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ft.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ft.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_satrdy.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\satrdy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_unhol.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\unhol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_previouss.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\previouss.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_chmk.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\chmk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_apn.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\apn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_next.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_music.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_alochane.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\alochane.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_loop.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_loop.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_sadha.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\sadha.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_lvt.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\lvt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_befree.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\befree.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_yenaithu.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\yenaithu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_jeenaa.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\jeenaa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_yaaronanu.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\yaaronanu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_gaho.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\gaho.jpg"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_alch.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\alch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_babyily.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\babyily.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_rakkamma.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\rakkamma.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_pause_btn.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\pause_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_erdu.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\erdu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_saltst.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\saltst.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_kannu.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\kannu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_hlohlo.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\hlohlo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_apnabanale.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\apnabanale.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_goblin.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\goblin.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_parav.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\parav.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_fast_forward.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_fast_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_tujhekitna.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\tujhekitna.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_pausee.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\pausee.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_blindinglights.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\blindinglights.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_sfm.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\sfm.jpg"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.musicccc.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_kannmaniye.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\kannmaniye.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_pal.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\pal.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_fairy.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\fairy.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_startover.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\startover.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_paravasha.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\paravasha.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_thara.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\thara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_symph.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\symph.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_bbyil.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\bbyil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_doob.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\doob.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_saaluthillave.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\saaluthillave.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_rkmmaa.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\rkmmaa.jpg"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_until.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\until.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_dm.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\dm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_munjanemanjalli.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\munjanemanjalli.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_onlylove.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\onlylove.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_inkem.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\inkem.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_kesariya.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\kesariya.mp3"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_violin.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\violin.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_unholy.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\unholy.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_headdphone.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\headdphone.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_watermelon.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\watermelon.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_loveme.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\loveme.mp3"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_gumma.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\gumma.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\font_arizonia.ttf.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\font\\arizonia.ttf"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_symphony.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\symphony.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_play.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_gagnaa.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\gagnaa.jpg"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_kesriya.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\kesriya.jpg"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_lmlyd.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\lmlyd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_previous.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_dancemonkey.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\dancemonkey.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_levitating.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\levitating.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_singformom.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\singformom.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_mainterabf.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\mainterabf.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ddn.jpeg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ddn.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_believer.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\believer.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_soundmin.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\soundmin.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_pal.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\pal.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_tumhiho.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\tumhiho.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_iktara.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\iktara.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_chammak.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\chammak.mp3"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_hellohello.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\hellohello.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_zindagi.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\zindagi.png"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_gaganave.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\gaganave.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_believer.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\believer.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_befree.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\befree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_bacckground.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\bacckground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_wann.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\wann.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_volup.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_volup.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_sada.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\sada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_hello.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\hello.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_wake.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\wake.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_tumhiho.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\tumhiho.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_shap.jpeg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\shap.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_voldown.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_voldown.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_goblinost.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\goblinost.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_jmm.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\jmm.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_headphone.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\headphone.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_viol.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\viol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_wannabe.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\wannabe.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_kannmaniye.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\kannmaniye.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_usire.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\usire.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_shape.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\shape.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_wats.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\wats.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_devilf.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\devilf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_taratara.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\taratara.mp3"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_img.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_prev.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\prev.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_ranjha.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\ranjha.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_launchermusic.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_launchermusic.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_inkmm.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\inkmm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_yaroo.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\yaroo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_gall.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\gall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_hellomm.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\hellomm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_soundmax.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\soundmax.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_eradu.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\eradu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_usire.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\usire.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_fast_rewind.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_fast_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_rnjh.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\rnjh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_yen.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\yen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_mttbff.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\mttbff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_uify.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\uify.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_doobey.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\doobey.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_ic_prev.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\ic_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_bl.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\bl.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_kannuu.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\kannuu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_neenade.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\neenade.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\font_aladin.ttf.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\font\\aladin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\font_alef.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\font\\alef.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_galliyan.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\galliyan.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_jeena.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\jeena.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_zara.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\zara.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_saturday.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\saturday.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_singfm.mid.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\singfm.mid"
+    },
+    {
+        "merged": "com.example.musicccc.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.musicccc.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_tujhe.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\tujhe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_dandelions.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\dandelions.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_olch.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\olch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_zaraa.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\zaraa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\drawable_neenad.jpg.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\drawable\\neenad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-merged_res-28:\\raw_dildhadkaneedo.mp3.flat",
+        "source": "C:\\Users\\NAMRATHA PRAKASH\\.gradle\\daemon\\8.0\\com.example.musicccc.app-main-30:\\raw\\dildhadkaneedo.mp3"
+    }
+]
