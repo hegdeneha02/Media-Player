@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg"
+        tools:context=".MainActivity">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="208dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/headdphone" />
+
+        <TextView
+            android:id="@+id/songTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/aladin"
+            android:gravity="center"
+            android:text="MEDIA PLAYER"
+            android:textColor="#000000"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/plaay1"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Believer-Imagine Dragons"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play1"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay2"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Munjane Manjalli-Raghu Dixit"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play2"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay3"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Pal-Javed Moshin "
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play3"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay4"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Kannmaniye-Sanjith Hegde"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play4"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay5"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Tum Hi Ho-Arijit Singh"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play5"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay6"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Wannabe-Why Mona"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play7"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay7"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Apna Bana Le-Arijit Singh"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play8"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay8"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Ninna Hinde-Karthik"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play9"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay79"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Be free-Vidya Vox"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play10"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay10"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Blinding Lights-The Weekend"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play11"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay11"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Dance Monkey-Tones and I"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play12"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay12"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Dandelions-Ruth B"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play13"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay13"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Doobey-OAFF"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play14"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay14"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Fairytale-Alexander Rybak"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play15"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay15"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Galliyan-Ankit Tiwari"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play16"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay16"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Devil's Fury-Anup Bhandari"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play17"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay17"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Hello Mister-Neeti Mohan"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play18"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay18"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Hello Hello-Vijay Prakash"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play19"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay9"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Inkem Inkem-Sid Sriram"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play20"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay20"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Jeena Jeena Ya-Shaan"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play21"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay21"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Kannu Hodiyaka-Shreya Ghoshal"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play22"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay22"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Kesariya-Pritam"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play23"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay23"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Levitating-Dua Lipa"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play24"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay24"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Love Me Like You Do-Ellie Goulding"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play25"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay25"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Main Tera Boy Friend-Pritam"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play26"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay26"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Neenade Naa-Thaman S"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play27"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay27"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Only Love Can Hurt Like This-Paloma Faith"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play28"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay28"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Rakkamma-Nakash Aziz,Sunidhi Chauhan"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play29"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay29"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Ranjha-Jasleen Royal"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play30"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay30"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Saaluthillave-Shreya Ghoshal,Vijay Prakash"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play31"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay31"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Sadha Ninna Kannali-Sonu Nigam"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play32"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay32"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Saturday Saturday-Shaarib Toshi"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play33"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay33"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Shape Of You-Ed Sheeran"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play34"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay34"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Sing For The Moment-Eminem"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play35"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay35"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Symphony-Zara Larsson"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play36"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay36"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Thara-Vijay Prakash,Shreya Ghoshal"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play37"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay37"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Unholy-Sam Smith,Kim Petras"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play38"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay38"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Until I fond you-Stephen Sanchez,Em Beihold"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play39"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay39"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Usire-Rajesh Krishnan"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play40"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay40"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Violin-David Simon,Anitha"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play41"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay41"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Watermelon Sugar-Harry Styles"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play42"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay42"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Yaaro Naanu-Shreya Ghoshal"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play43"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay43"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Yenaithu-Puneeth Rajkumar,Kajal Aggarwal"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play44"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay44"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+                <TextView
+                    android:layout_width="321dp"
+                    android:layout_height="wrap_content"
+                    android:text="Zara Zara-Bombay Jayashri"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/play45"
+                    android:layout_width="49dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay45"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Paravashanadenu-Sonu Nigam"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play46"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay46"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Chammak Challo-Akon"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play47"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay47"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Aalochane-Shreya Ghoshal"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play48"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay48"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Gaganave Baagi-Shreya Ghoshal"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play49"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/plaay49"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_weight="3"
+                app:srcCompat="@drawable/ic_music" />
+
+            <TextView
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:text="Eradu Jadeyannu-Sonu Nigam,Shreya Ghoshal"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/play50"
+                android:layout_width="49dp"
+                android:layout_height="36dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_play" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
