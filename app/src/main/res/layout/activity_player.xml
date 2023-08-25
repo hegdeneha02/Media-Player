@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg"
+        tools:context=".MainActivity">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="352dp"
+            android:layout_height="327dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/headdphone" />
+
+        <TextView
+            android:id="@+id/songTitle"
+            android:layout_width="match_parent"
+            android:layout_height="82dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/alef"
+            android:gravity="center"
+            android:text="CLICK TO PLAY!"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <SeekBar
+            android:id="@+id/seekBarTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp" />
+
+        <LinearLayout
+            android:layout_width="390dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal">
+
+            <ToggleButton
+                android:id="@+id/loopb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOn="Loop"
+                android:textOff="No Loop"/>
+
+            <TextView
+                android:id="@+id/txtsstop"
+                android:layout_width="38dp"
+                android:layout_height="21dp"
+                android:layout_alignParentRight="false"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="260dp"
+                android:layout_toRightOf="@+id/seekBarTime"
+                android:text="00:00"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/fstr"
+                android:layout_width="54dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_fast_rewind" />
+            <ImageView
+                android:id="@+id/prev"
+                android:layout_width="54dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_prev" />
+
+            <ImageView
+                android:id="@+id/play"
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_play" />
+
+            <ImageView
+                android:id="@+id/next"
+                android:layout_width="54dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_next" />
+            <ImageView
+                android:id="@+id/fstf"
+                android:layout_width="54dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_fast_forward" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/ic_voldown" />
+
+            <SeekBar
+                android:id="@+id/seekBarVol"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/ic_volup" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
